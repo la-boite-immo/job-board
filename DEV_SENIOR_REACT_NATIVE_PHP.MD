@@ -64,3 +64,12 @@ Des compétences en **React JS** ou **Angular** sont un plus, notamment pour les
 * Un **produit concret**, utilisé chaque jour par des milliers de professionnels
 * Une **proximité réelle** avec les leads techniques et le DSI du groupe
 * La **liberté d’expérimenter** et de proposer de nouvelles solutions techniques
+
+| Domaine                      | Outils & librairies                                            |
+| ---------------------------- | -------------------------------------------------------------- |
+| **Design system**            | Figma, TailwindCSS, Styled Components                          |
+| **Animations & transitions** | React Native Reanimated, Lottie, Framer Motion                 |
+| **Composants UI**            | React Native Paper, Shadcn/UI (pour les outils web)            |
+| **Accessibilité**            | React Aria, ESLint a11y                                        |
+| **Performance visuelle**     | Lazy loading, Virtualized lists, Optimisation d’images (Sharp) |
+
