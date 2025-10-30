@@ -62,8 +62,8 @@ La refonte front a débuté il y a moins d’un an, avec une **forte culture qua
 - **TypeScript strict** (aucun `any` toléré)  
 - **Monorepo** (plus de 20 packages internes – le projet évolue rapidement)  
 - **Architecture micro-frontend** pour refondre le logiciel page par page  
-- **TailwindCSS** (pas de Sass)  
-- **Vite** (pas de Webpack)  
+- **TailwindCSS** 
+- **Vite**
 - **Storybook** pour les composants du design system interne  
 - **Vitest / React Testing Library** : couverture complète du code front  
 - Et tout ce qui fait un **projet front moderne en 2025** :  
