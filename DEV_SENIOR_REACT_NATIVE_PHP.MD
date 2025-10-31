@@ -1,7 +1,7 @@
 # ⚡ Développeur React Native / PHP (H/F)
 
 📍 **Hyères-les-Palmiers (83)**
-🧾 **CDI** – 45 à 50K€ brut/an selon profil
+🧾 **CDI** – 40 à 45K€ brut/an selon profil
 
 ## 🚩 À propos de Previsite
 
