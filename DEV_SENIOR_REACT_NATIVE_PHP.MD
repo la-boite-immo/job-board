@@ -49,7 +49,7 @@ Tu es un **développeur confirmé (3 à 5 ans d’expérience)**, curieux et pas
 
 * Excellente maîtrise de **React Native** et de la **programmation orientée objet en PHP**
 * Expérience concrète sur au moins un **framework backend** (Laravel ou Symfony)
-* Bonne connaissance des **API REST ** et des **bonnes pratiques de tests**
+* Bonne connaissance des **API REST** et des **bonnes pratiques de tests**
 * Capacité à **collaborer dans une équipe agile** et à partager tes idées d’amélioration
 * Goût pour les **technologies émergentes** (IA, mobile, outils dev modernes)
 
