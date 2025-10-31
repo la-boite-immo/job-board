@@ -1,5 +1,8 @@
 # ⚡ Développeur React Native / PHP (H/F)
 
+📍 **Hyères-les-Palmiers (83)**
+🧾 **CDI** – 45 à 50K€ brut/an selon profil
+
 ## 🚩 À propos de Previsite
 
 **Previsite**, filiale du groupe **La Boîte Immo**, est **pionnière dans le marketing immobilier digital**.
