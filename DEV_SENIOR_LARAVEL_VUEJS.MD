@@ -36,14 +36,14 @@ Ton rôle : être moteur sur **l’architecture, la qualité et la performance d
 ## 🧬 Stack technique détaillée
 
 ```
-Frontend     : VueJS, TypeScript, TailwindCSS, Vite, Storybook
-Backend      : PHP 8, Laravel, REST / GraphQL, Redis, ElasticSearch
-Base de données : MySQL
-Infrastructure : Docker, Linux, GitLab CI/CD
-Tests        : PHPUnit, Jest, Cypress
-Qualité      : ESLint, Prettier, code review, refactoring régulier
+Frontend     : VueJS (2-3), TypeScript, TailwindCSS, Nuxt (2-3), NuxtUi
+Backend      : PHP 8, Laravel, GraphQL
+Base de données : Postgres
+Infrastructure : Docker, Lando (dev), GitLab CI/CD
+Tests        : PHPUnit - Pest
+Qualité      : ESLint, PhpStan, phpmd, pint, typecheck, code review, refactoring régulier, DDD
 DevOps       : CI/CD GitLab, pipeline automatisé, monitoring, logs centralisés
-Outils       : Git, VS Code, Postman, Figma (collaboration UI/UX)
+Outils       : Git, PhpStorm (jetbrain IA), Postman, Figma (collaboration UI/UX), Jira
 ```
 
 💡 *La stack est pensée pour allier productivité, robustesse backend, modernité frontend et qualité visuelle.*
@@ -52,28 +52,29 @@ Outils       : Git, VS Code, Postman, Figma (collaboration UI/UX)
 
 ## 🔧 Bonnes pratiques et culture dev
 
-* **Code maintenable et scalable** : architecture modulaire, séparation des responsabilités, SOLID
-* **Revues de code systématiques** et pair programming ponctuel
-* **Tests automatisés** : unitaires, fonctionnels, e2e
-* **CI/CD et déploiements automatisés** pour des livraisons fiables et rapides
-* **Monitoring et performance** : suivi SQL, temps de réponse API, audit frontend
-* **Documentation et collaboration** : README technique, tickets clairs, schémas d’architecture
+Code maintenable et scalable : architecture modulaire, séparation des responsabilités, SOLID
+Revues de code systématiques et pair programming ponctuel
+Tests automatisés : unitaires, fonctionnels
+CI/CD et déploiements automatisés pour des livraisons fiables et rapides
+Monitoring et performance : suivi SQL, temps de réponse API, audit frontend
+Documentation et collaboration : README technique, tickets clairs, schémas d’architecture
 
 ---
 
 ## 👤 Profil recherché
 
-* **Expérience ≥5 ans en fullstack** avec PHP / Laravel et VueJS
-* Connaissance de **Redis, ElasticSearch, MySQL**, et capacité à optimiser les requêtes et index
-* Maîtrise des **CI/CD**, Docker et environnement Linux
-* Passion pour le **code propre, performant et bien testé**
-* Capacité à **prendre des décisions techniques**, proposer des améliorations et guider l’équipe
+Expérience ≥ 5 ans en fullstack avec PHP / Laravel et VueJS
+Connaissance en SQL et capacité à optimiser les requêtes et index
+Maîtrise des CI/CD, Docker et environnement Linux
+Passion pour le code propre, performant et bien testé
+Capacité à prendre des décisions techniques, proposer des améliorations et guider l’équipe
 
 ---
 
 ## 🧬 Stack visuelle résumée
 
 ```
-PHP 8 · Laravel · VueJS · MySQL · Redis · ElasticSearch  
-GraphQL · TailwindCSS · Docker · GitLab CI/CD · Jest · Storybook · Vite
+PHP 8 · Laravel · VueJS · SQL 
+GraphQL · TailwindCSS · Docker · GitLab CI/CD 
+
 ```
