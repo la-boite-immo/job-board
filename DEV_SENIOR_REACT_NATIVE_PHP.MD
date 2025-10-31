@@ -22,7 +22,7 @@ Tu évolueras dans un environnement **Agile (Kanban)** avec une forte culture du
 * 🚀 Développer de **nouvelles features** sur l’application mobile en **React Native**
 * ⚙️ Participer au **développement backend** sur nos services PHP orientés objet (**Laravel / Symfony**)
 * 🧠 Contribuer à l’intégration de **fonctionnalités IA** (traitement d’images, génération automatisée, etc.)
-* 🔍 Prendre part aux **revues de code**, à l’**intégration continue** et au maintien des **standards de qualité**
+* 🔍 Prendre part à l’**intégration continue** et au maintien des **standards de qualité**
 * 🔄 Collaborer avec le Lead Dev et l’équipe pour assurer la **cohérence front/back** et la **performance globale** du produit
 
 ---
@@ -33,11 +33,11 @@ Tu évolueras dans un environnement **Agile (Kanban)** avec une forte culture du
 | ----------------------- | ------------------------------------------- |
 | **Mobile / Front**      | React Native, React JS, TypeScript          |
 | **Backend**             | PHP 8+, Laravel, Symfony                    |
-| **API / Communication** | REST, GraphQL                               |
+| **API / Communication** | REST                                        | 
 | **Base de données**     | MySQL                                       |
-| **DevOps**              | Docker, GitHub Actions, Gitflow, CI/CD      |
+| **DevOps**              | Docker,Gitflow, CI/CD                       |
 | **UI / UX**             | Tailwind, Styled Components                 |
-| **Outils & pratiques**  | Tests unitaires, Code Reviews, Kanban Agile |
+| **Outils & pratiques**  |Code Reviews, Kanban Agile                   |
 
 ---
 
@@ -49,7 +49,7 @@ Tu es un **développeur confirmé (3 à 5 ans d’expérience)**, curieux et pas
 
 * Excellente maîtrise de **React Native** et de la **programmation orientée objet en PHP**
 * Expérience concrète sur au moins un **framework backend** (Laravel ou Symfony)
-* Bonne connaissance des **API REST / GraphQL** et des **bonnes pratiques de tests**
+* Bonne connaissance des **API REST ** et des **bonnes pratiques de tests**
 * Capacité à **collaborer dans une équipe agile** et à partager tes idées d’amélioration
 * Goût pour les **technologies émergentes** (IA, mobile, outils dev modernes)
 
@@ -65,5 +65,4 @@ Des compétences en **React JS** ou **Angular** sont un plus, notamment pour les
 * Une **proximité réelle** avec les leads techniques et le DSI du groupe
 * La **liberté d’expérimenter** et de proposer de nouvelles solutions techniques
 
-PHP · React Native · React JS · MySQL · Redis · ElasticSearch  
-GraphQL · TailwindCSS · Docker · GitLab CI/CD · Jest · Storybook · Vite
+PHP · React Native · React JS · MySQL · Redis · ElasticSearch · TailwindCSS · Docker · GitLab CI/CD
